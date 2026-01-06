@@ -1,14 +1,13 @@
 ## HI,WELCOME TO MY GITHUB
-## 我是李秉穎，目前是大三生
-我目前正在研究專題中，專題名稱是「具智慧遙控導航系統之無人船設計」，加速中！
-正在嘗試用MarkDown語法來寫這串介紹...
+## 我是李秉穎
 
 ### 使用過的程式語言：
+- Verilog
 - Python
 - HTML/CSS
 - Java Script
 - MySQL
-### 使用酷酷絕招展示！
+### SHOW
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 
